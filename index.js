@@ -13,6 +13,15 @@ var fs = require("fs");
 var handlers = require("./lib/handlers");
 var helpers = require("./lib/helpers");
 
+//@TODO GET RID OF THIS
+helpers.sendTwilioSms(
+  "81291232924",
+  "Ini SMS dari Aplikasi Course Pirple.",
+  function (err) {
+    console.log("This was the error of twilio sms function", err);
+  }
+);
+
 // Instantiate the HTTP server
 var httpServer = http.createServer(function (req, res) {
   unifiedServer(req, res);
