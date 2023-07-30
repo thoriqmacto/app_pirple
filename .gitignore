@@ -1,4 +1,4 @@
 *.key
 *.pem
-config.js
+lib/config.js
 .env
