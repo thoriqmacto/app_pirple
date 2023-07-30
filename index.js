@@ -22,5 +22,5 @@ app.init = function () {
 // Execute
 app.init();
 
-// Export the app
+// Export the app to outside world
 module.exports = app;
