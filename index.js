@@ -19,7 +19,7 @@ app.init = function () {
   workers.init();
 };
 
-// Execute app
+// Execute
 app.init();
 
 // Export the app
