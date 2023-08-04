@@ -15,7 +15,9 @@ server.on("stream", function (stream, headers) {
     status: 200,
     "content-type": "text/html",
   });
-  stream.end("<html><body><p>Hello World</p></body></html>");
+  stream.end(
+    "<html><body><p>Hello World, this is experimental test.</p></body></html>"
+  );
 });
 
 // Listen on 6000
