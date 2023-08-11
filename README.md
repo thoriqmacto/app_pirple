@@ -21,6 +21,8 @@ I finish this course on 3rd August 2023, and leave some notes to remember in the
 
 Link: [Course Completion Certificate](https://github.com/thoriqmacto/app_pirple/blob/main/public/course_cert.jpg?raw=true)
 
+![Pirple Course Completion Certificate](https://github.com/thoriqmacto/app_pirple/blob/main/public/course_cert.jpg?raw=true)
+
 ## LICENSE
 
 MIT License
